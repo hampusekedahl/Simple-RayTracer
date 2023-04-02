@@ -1,6 +1,6 @@
 # Simple-RayTracer
 
-Simple RayTracer made in c++ with openGL and freeglut.
+Simple RayTracer made in c with openGL and freeglut.
 
 ![Screenshot](1.png)
 
