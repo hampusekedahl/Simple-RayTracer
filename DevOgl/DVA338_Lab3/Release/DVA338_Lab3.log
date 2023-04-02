@@ -1,0 +1,85 @@
+﻿  Main.cpp
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Mat4.h(54,29): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Mat4.h(54,67): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Mat4.h(55,29): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Mat4.h(55,71): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Mat4.h(62,14): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Mat4.h(62,70): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Mat4.h(64,11): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Mat4.h(64,71): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Mat4.h(71,14): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Mat4.h(71,52): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Mat4.h(72,14): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Mat4.h(72,55): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Main.cpp(71,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Main.cpp(72,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Main.cpp(100,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Main.cpp(105,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Main.cpp(113,1): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Main.cpp(120,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Main.cpp(126,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Main.cpp(133,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Main.cpp(147,1): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Main.cpp(327,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  2 of 238 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DVA338_Lab3.vcxproj -> C:\Users\hampu\Desktop\Redovisning Lab 3\Lab 3 Datorgrafik\DevOgl\DVA338_Lab3\Release\DVA338_Lab3.exe
